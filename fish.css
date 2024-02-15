@@ -1,0 +1,37 @@
+.one 
+ { 
+
+color: aqua; font-size: 50px;
+
+}
+#two
+{
+
+    background: rgb(129, 21, 106); width: 100%; text-align: center;padding: 100px 0;
+
+}
+#five
+{
+
+    background: rgb(41, 143, 32); width: 100%; text-align: center;padding: 200px 0;
+}
+
+#six
+{
+
+    background: rgb(0, 0, 0); width: 100%; float: right; text-align: center;padding: 200px 0;
+
+}
+
+#four
+{
+
+    background: rgb(106, 30, 150); width: 100%; text-align: center;padding: 200px 0;
+
+}
+#seven 
+{
+
+    background: rgb(0, 0, 0); width: 100%; text-align: center;padding: 100px 0;
+
+} 
